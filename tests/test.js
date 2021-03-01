@@ -11,7 +11,7 @@ describe("demo calculator", function () {
         homepage.gobutton();
 
         homepage.verifyresult('8');
-        browser.sleep(2000);
+        browser.sleep(3000);
 
     });
    it("substract test", function () {
